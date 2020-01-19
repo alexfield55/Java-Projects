@@ -1,0 +1,13 @@
+start bos 10
+bos jfk 187
+bos mia 1258
+jfk sfo 2582
+jfk mia 1090
+jfk dfw 1391
+mia dfw 1121
+mia lax 2342
+dfw lax 1235
+dfw ord 802
+lax ord 1749
+ord dfw 802
+ord end 10
